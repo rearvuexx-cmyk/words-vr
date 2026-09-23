@@ -41,6 +41,14 @@ export const TRACKS: Track[] = [
     kicker: "Original mix",
     youtubeId: "6q5fHjS-82U",
   },
+  {
+    id: "pretty-boy-habit",
+    title: "Pretty Boy Habit",
+    artist: "Al3X MiX",
+    duration: "3:22",
+    kicker: "VR cinema cut",
+    driveId: "10GieGkBw-_N5PEZqKZAcTRJsZgnFSKGw",
+  },
 ];
 
 export function filmSrc(track: Track): string {

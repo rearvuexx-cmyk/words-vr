@@ -8,6 +8,7 @@ The last VR session for **WORDS** — rebuilt as a WebXR floor with cinema playb
 - The Dance Floor Knows
 - CHK N’ DKN
 - Found My People
+- Pretty Boy Habit (Al3X MiX)
 
 ## Play
 
